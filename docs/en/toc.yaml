@@ -1,9 +1,9 @@
 title: Documentation Project Template
 href: index.yaml
 items: 
-  - name: About
+  - name: Очем-то
     href: about.md
-  - name: Additional page 
+  - name: падже
     href: page.md
   - name: Another page 
     href: anotherpage.md
