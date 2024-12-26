@@ -1,5 +1,5 @@
 title: Docs navigationExample
-href: index.md
+href: index.yaml
 navigation:
   logo:
     url: 'https://diplodoc.com'
